@@ -1,104 +1,127 @@
-# 👋 Hi, I'm Gopal Mule
+# Gopal Mule
+
+### Frontend Developer — Code × Motion × 3D
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Developer;GSAP+Animation+Enthusiast;Three.js+3D+Web+Explorer;Building+Modern+Web+Experiences" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:gopalmule1608@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/gopal-mule-ba89233b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/gopalmule.1608/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/gopalmule1608">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React.js+%7C+GSAP+%7C+Three.js;Code+%C3%97+Motion+%C3%97+3D" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopalmule1608&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+  <a href="https://github.com/gopalmule1608">GitHub</a> •
+  <a href="https://www.linkedin.com/in/gopal-mule-ba89233b1/">LinkedIn</a> •
+  <a href="https://www.instagram.com/gopalmule.1608/">Instagram</a> •
+  <a href="mailto:gopalmule1608@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / ABOUT
 
-Hi, I'm **Gopal Mule**, a passionate **Frontend Developer** who enjoys creating modern, responsive, interactive, and visually engaging web experiences.
+I'm Gopal Mule, a frontend developer focused on building modern,
+responsive and interactive web experiences.
 
-I love turning ideas into websites using clean code, creative UI, smooth animations, and modern frontend technologies.
+I enjoy turning ideas into clean interfaces with strong visual design,
+smooth motion and immersive interactions.
 
-- 💻 Focused on Frontend Development
-- ⚛️ Building applications with React.js
-- 🎨 Creating modern interfaces with Tailwind CSS
-- ✨ Creating smooth animations with GSAP
-- 🌌 Exploring interactive 3D experiences with Three.js
-- 📱 Building responsive websites
-- 🔧 Using Git & GitHub for version control
-- 📚 Continuously learning and improving
-- 🚀 Always looking for new ideas to build
+> Focus: Frontend Development • Creative UI • Motion • 3D
 
 ---
 
-## 🛠️ Tech Stack
+## 02 / TECH STACK
 
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React">
-</p>
-
-### 🎨 Styling & UI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
-</p>
-
-### ✨ Animation & 3D
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gsap,threejs" alt="GSAP Three.js">
-</p>
-
-### 🔧 Tools & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git GitHub">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,gsap,threejs,git,github" />
 </p>
 
 ---
 
-## 💡 What I Can Build
+## 03 / WHAT I BUILD
 
-| 🚀 Area | 💻 What I Build |
-|---|---|
-| 🌐 Websites | Modern & responsive websites |
-| 🎨 UI/UX | Clean and engaging interfaces |
-| ⚛️ React | Interactive React.js applications |
-| ✨ Animation | GSAP animations & scroll experiences |
-| 🌌 3D Web | Three.js interactive experiences |
-| 📱 Responsive | Mobile, tablet & desktop layouts |
-| 🚀 Landing Pages | Creative & interactive landing pages |
-| 🧩 Frontend Apps | Practical JavaScript & React projects |
+- Modern landing pages
+- React.js web applications
+- GSAP animations & scroll experiences
+- Three.js / 3D interfaces
+- Responsive UI systems
+- Interactive frontend experiences
 
 ---
 
-## 🔥 Development Journey
+## 04 / SELECTED WORK
 
-```text
-HTML + CSS
-     ↓
-JavaScript
-     ↓
-React.js
-     ↓
-Tailwind CSS
-     ↓
-GSAP
-     ↓
-Three.js
-     ↓
-Modern Interactive Web Experiences
+### ImageX
+
+Image-focused web project built for a modern visual experience.
+
+### ShoeX
+
+E-commerce style frontend concept.
+
+### LapZone
+
+Laptop/product showcase interface.
+
+### MobileZone
+
+Mobile/product showcase project.
+
+### NewsX
+
+News-focused web application.
+
+### QR-Generator
+
+QR code generation utility.
+
+---
+
+## 05 / GITHUB ANALYTICS
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gopalmule1608&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+
+  <img height="170" src="https://streak-stats.demolab.com?user=gopalmule1608&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalmule1608&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopalmule1608&hide_border=true&theme=github-compact" />
+</p>
+
+---
+
+## 06 / CURRENTLY LEARNING
+
+- Advanced JavaScript
+- React.js
+- GSAP
+- Three.js
+- Frontend architecture
+- Performance & UI optimization
+
+---
+
+## 07 / CONNECT
+
+<p align="center">
+  <a href="https://github.com/gopalmule1608">GitHub</a> •
+  <a href="https://www.linkedin.com/in/gopal-mule-ba89233b1/">LinkedIn</a> •
+  <a href="https://www.instagram.com/gopalmule.1608/">Instagram</a> •
+  <a href="mailto:gopalmule1608@gmail.com">Email</a>
+</p>
+
+---
+
+## 08 / PORTFOLIO
+
+🚧 **Portfolio website — Coming Soon**
+
+---
+
+<p align="center">
+  <b>Keep Learning • Keep Building • Keep Growing.</b>
+</p>
