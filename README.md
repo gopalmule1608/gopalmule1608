@@ -1,24 +1,37 @@
 # 👋 Hi, I'm Gopal Mule
 
-### 💻 Full Stack Developer | BCA Science Student | Web Development Enthusiast
+### 💻 Frontend Developer | React.js | GSAP | Three.js
 
-Welcome to my GitHub profile! 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;GSAP+Animation+Enthusiast;Three.js+3D+Web+Explorer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</p>
 
-I'm a passionate developer who enjoys building modern, responsive and
-interactive web experiences. I love learning new technologies, creating
-projects and improving my development skills every day.
+<p align="center">
+  <a href="https://github.com/gopalmule1608">
+    <img src="https://img.shields.io/github/followers/gopalmule1608?label=Followers&style=for-the-badge" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/gopalmule1608?tab=repositories">
+    <img src="https://img.shields.io/github/stars/gopalmule1608?label=Stars&style=for-the-badge" alt="GitHub stars">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Science Student
-- 💻 Aspiring Full Stack Developer
-- 🌐 Passionate about Web Development
-- 📚 Currently improving my JavaScript & React skills
-- 🎨 Interested in modern UI/UX and animations
-- 🚀 Love building projects and experimenting with new technologies
-- 🤝 Open to collaboration and learning opportunities
+I'm a passionate **Frontend Developer** who enjoys building modern, responsive, interactive, and visually engaging web experiences.
+
+I love turning ideas into websites using clean code, creative UI, smooth animations, and modern frontend technologies.
+
+- 💻 Focused on Frontend Development
+- ⚛️ Building applications with React.js
+- 🎨 Creating modern interfaces with Tailwind CSS
+- ✨ Creating smooth animations with GSAP
+- 🌌 Exploring interactive 3D experiences with Three.js
+- 📱 Building responsive websites
+- 🔧 Using Git & GitHub for version control
+- 📚 Continuously learning and improving
+- 🚀 Love building projects and experimenting with new ideas
 
 ---
 
@@ -26,39 +39,57 @@ projects and improving my development skills every day.
 
 ### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend skills">
+</p>
 
-### 🎨 CSS & UI
+### 🎨 Styling
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
+</p>
 
-### ✨ Animation
+### ✨ Animation & 3D
 
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=gsap,threejs" alt="GSAP and Three.js">
+</p>
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub">
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 💡 What I Build
+
+| Area | What I Create |
+|---|---|
+| 🌐 Websites | Responsive and modern websites |
+| 🎨 UI | Clean and engaging user interfaces |
+| ⚛️ React | Interactive React.js applications |
+| ✨ Animation | GSAP-powered animations |
+| 🌌 3D Web | Three.js interactive experiences |
+| 📱 Responsive | Mobile, tablet, and desktop layouts |
+| 🚀 Landing Pages | Creative landing pages |
+
+---
+
+## 🔥 My Development Journey
 
 ```text
+HTML + CSS
+     ↓
 JavaScript
-   ↓
+     ↓
 React.js
-   ↓
-Advanced Frontend Development
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB
-   ↓
-Full Stack Development
+     ↓
+Tailwind CSS
+     ↓
+GSAP
+     ↓
+Three.js
+     ↓
+Modern Interactive Web Experiences
