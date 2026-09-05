@@ -1,6 +1,8 @@
 <!-- ========================================================= -->
-<!--                    GOPAL MULE — PROFILE                   -->
+<!--                  GOPAL MULE | GITHUB                     -->
 <!-- ========================================================= -->
+
+<!-- ========================= HERO ========================== -->
 
 <p align="center">
   <img
@@ -12,45 +14,54 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+Modern+Web+Experiences;React.js+%2B+GSAP+%2B+Three.js;Clean+UI+%C3%97+Smooth+Motion+%C3%97+3D;Turning+Ideas+Into+Interactive+Experiences"
+    alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/gopalmule1608">
-    <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gopal-mule-ba89233b1/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gopalmule.1608/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:gopalmule1608@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://github.com/gopalmule1608">
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/gopal-mule-ba89233b1/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/gopalmule.1608/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:gopalmule1608@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 <br>
 
-<!-- ====================== IDENTITY ========================= -->
+<!-- ====================== QUICK IDENTITY ================== -->
 
 <table align="center">
 <tr>
+
 <td align="center" width="33%">
 
 ### ⚡ FRONTEND
 
-Building responsive  
-and modern interfaces.
+Modern  
+Responsive  
+Interfaces
 
 </td>
 
 <td align="center" width="33%">
 
-### ✦ MOTION
+### 🎬 MOTION
 
-Creating smooth  
-interactive experiences.
+GSAP  
+Scroll  
+Interactions
 
 </td>
 
@@ -58,16 +69,18 @@ interactive experiences.
 
 ### ◈ 3D WEB
 
-Exploring immersive  
-Three.js experiences.
+Three.js  
+Immersive  
+Experiences
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<!-- ====================== ABOUT ============================ -->
+<!-- ======================== ABOUT ========================= -->
 
 <table>
 <tr>
@@ -78,21 +91,27 @@ Three.js experiences.
 
 ### Hey, I'm **Gopal Mule** 👋
 
-I'm a **Frontend Developer** who enjoys turning ideas into modern,
+I'm a **Frontend Developer** focused on building modern,
 responsive and interactive web experiences.
 
-I care about more than just making a website work.
+I enjoy combining:
 
-I like making it **look good, feel smooth and stay memorable.**
+**Design + Code + Motion + 3D**
+
+to create websites that don't just work —  
+they **feel alive**.
 
 <br>
 
 ```text
-DESIGN        →        CODE
-   ↓                     ↓
-UI / UX              React.js
-Motion               JavaScript
-Interaction          GSAP
-3D                   Three.js
-   ↓                     ↓
-        DIGITAL EXPERIENCE
+IDEA
+  ↓
+DESIGN
+  ↓
+CODE
+  ↓
+MOTION
+  ↓
+INTERACTION
+  ↓
+EXPERIENCE
