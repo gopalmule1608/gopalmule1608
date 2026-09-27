@@ -1,4 +1,4 @@
-Gopal Mule
+# Gopal Mule
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
@@ -6,57 +6,47 @@ Gopal Mule
   <img src="./dark.svg" alt="Gopal Mule — Frontend Developer profile banner">
 </picture>
 
-About
+## About
 
-I'm Gopal Mule, a Frontend Developer focused on building modern, responsive and interactive web experiences.
+I'm **Gopal Mule**, a **Frontend Developer** focused on building modern, responsive and interactive web experiences.
 
-Currently studying BCA Science · BAMU University at Shivchhatrapati College, Chhatrapati Sambhajinagar.
+Currently studying **BCA Science · BAMU University** at **Shivchhatrapati College, Chhatrapati Sambhajinagar**.
 
 I enjoy working with modern frontend technologies, polished UI, smooth motion and creative web interactions. My longer-term direction is to grow into a well-rounded full-stack developer.
 
-Focus
+## Focus
 
-Modern responsive web interfaces
+- Modern responsive web interfaces
+- Interactive frontend experiences
+- Component-based development with React
+- Utility-first styling with Tailwind CSS
+- Motion and interaction with GSAP
+- 3D web experiences with Three.js
+- Clean version-controlled workflows with Git & GitHub
 
-Interactive frontend experiences
+## Engineering Stack
 
-Component-based development with React
+### Frontend
+`HTML` `CSS` `JavaScript` `React.js` `Tailwind CSS`
 
-Utility-first styling with Tailwind CSS
+### Motion & 3D
+`GSAP` `Three.js`
 
-Motion and interaction with GSAP
+### Workflow
+`Git` `GitHub`
 
-3D web experiences with Three.js
+## Education
 
-Clean version-controlled workflows with Git & GitHub
-
-Engineering Stack
-
-Frontend
-
-HTML CSS JavaScript React.js Tailwind CSS
-
-Motion & 3D
-
-GSAP Three.js
-
-Workflow
-
-Git GitHub
-
-Education
-
-BCA Science
+**BCA Science**  
 Shivchhatrapati College, Chhatrapati Sambhajinagar · BAMU University
 
-Connect
+## Connect
 
-GitHub — gopalmule1608
+- GitHub — [gopalmule1608](https://github.com/gopalmule1608)
+- LinkedIn — [Gopal Mule](https://linkedin.com/in/gopal-mule-ba89233b1)
+- Instagram — [@gopal.mule.1608](https://instagram.com/gopal.mule.1608)
+- Email — [gopalmule1608@gmail.com](mailto:gopalmule1608@gmail.com)
 
-LinkedIn — Gopal Mule
+---
 
-Instagram — @gopal.mule.1608
-
-Email — gopalmule1608@gmail.com
-
-Built as a GitHub profile system with a terminal-inspired, accessible SVG hero. The banner intentionally keeps personal claims limited to supplied profile information.
+> Built as a GitHub profile system with a terminal-inspired, accessible SVG hero. The banner intentionally keeps personal claims limited to supplied profile information.
