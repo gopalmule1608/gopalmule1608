@@ -106,7 +106,7 @@
        profile.jpg
   -->
   <g clip-path="url(#photoClip)">
-    <image href="./profile.jpg"
+    <image href="./profile.jpg.jpeg"
            x="62" y="112"
            width="480" height="480"
            preserveAspectRatio="xMidYMid slice"/>
