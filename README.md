@@ -1,251 +1,62 @@
-<!-- ========================================================= -->
-<!--                    GOPAL MULE                             -->
-<!--            PREMIUM GITHUB PROFILE README                  -->
-<!-- ========================================================= -->
+Gopal Mule
 
-<!-- ========================= HERO ========================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=GOPAL%20MULE&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20CODE%20%C3%97%20MOTION%20%C3%97%203D&descAlignY=58&descSize=18&animation=fadeIn&color=0:020617,35:0F172A,70:1E1B4B,100:312E81"
-    width="100%"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Gopal Mule — Frontend Developer profile banner">
+</picture>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;React.js+%2B+GSAP+%2B+Three.js;Clean+UI+%C3%97+Smooth+Motion+%C3%97+Interactive+Design;Turning+Ideas+Into+Digital+Experiences"
-    alt="Typing SVG"
-  />
-</p>
+About
 
-<p align="center">
-<a href="https://github.com/gopalmule1608">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/gopal-mule-ba89233b1/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/gopalmule.1608/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:gopalmule1608@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+I'm Gopal Mule, a Frontend Developer focused on building modern, responsive and interactive web experiences.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopalmule1608&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/gopalmule1608?style=for-the-badge&color=6366F1&labelColor=111827" alt="Followers"/>
-</p>
+Currently studying BCA Science · BAMU University at Shivchhatrapati College, Chhatrapati Sambhajinagar.
 
-<br>
+I enjoy working with modern frontend technologies, polished UI, smooth motion and creative web interactions. My longer-term direction is to grow into a well-rounded full-stack developer.
 
-<!-- ====================== IDENTITY ========================= -->
-<p align="center">
-<img src="https://img.shields.io/badge/FRONTEND-DEVELOPMENT-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/INTERACTION-DESIGN-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/MOTION-GSAP-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/3D-WEB-111827?style=for-the-badge">
-</p>
+Focus
 
----
+Modern responsive web interfaces
 
-# `01` — WHO AM I?
+Interactive frontend experiences
 
-### Hey, I'm **Gopal Mule** 👋
+Component-based development with React
 
-I'm a **Frontend Developer** who enjoys building modern, responsive and interactive web experiences.
+Utility-first styling with Tailwind CSS
 
-My focus is not just writing code.
-I enjoy combining:
+Motion and interaction with GSAP
 
-> **Design + Code + Motion + Interaction**
+3D web experiences with Three.js
 
-to create interfaces that feel **modern, smooth and engaging**.
+Clean version-controlled workflows with Git & GitHub
 
-```text
-IDEA
-  ↓
-DESIGN
-  ↓
-CODE
-  ↓
-MOTION
-  ↓
-INTERACTION
-  ↓
-EXPERIENCE
-```
+Engineering Stack
 
-<table align="center">
-<tr>
-<td>
+Frontend
 
-🎯 **Currently Focused On** — Building fluid, motion-driven UI with React & GSAP
-🌱 **Exploring** — Three.js & WebGL for immersive 3D web experiences
-🤝 **Open To** — Frontend / UI Engineering collaborations
-💬 **Ask Me About** — React, Animations, UI/UX, Performance
-⚡ **Fun Fact** — I think in transitions, easing curves, and 60fps
+HTML CSS JavaScript React.js Tailwind CSS
 
-</td>
-</tr>
-</table>
+Motion & 3D
 
----
+GSAP Three.js
 
-# `02` — TECH ARSENAL
+Workflow
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github,vscode,nodejs&theme=dark" />
-</p>
+Git GitHub
 
-<table align="center">
-<tr>
-<th>Category</th>
-<th>Stack</th>
-</tr>
-<tr>
-<td><b>🖥️ Languages</b></td>
-<td>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>⚛️ Frameworks / Libraries</b></td>
-<td>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>🎨 Styling</b></td>
-<td>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>🌀 Motion / 3D</b></td>
-<td>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
-</td>
-</tr>
-<tr>
-<td><b>🛠️ Tools</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-</td>
-</tr>
-</table>
+Education
 
----
+BCA Science
+Shivchhatrapati College, Chhatrapati Sambhajinagar · BAMU University
 
-# `03` — GITHUB ANALYTICS
+Connect
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gopalmule1608&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalmule1608&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=818CF8&fire=38BDF8" />
-</p>
+GitHub — gopalmule1608
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalmule1608&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" />
-</p>
+LinkedIn — Gopal Mule
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopalmule1608&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=818CF8&point=ffffff" width="100%"/>
-</p>
+Instagram — @gopal.mule.1608
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gopalmule1608&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
+Email — gopalmule1608@gmail.com
 
----
-
-# `04` — FEATURED PROJECTS
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Project One
-Modern React-based web app with smooth GSAP-powered scroll animations and a fully responsive layout.
-
-`React` `GSAP` `TailwindCSS`
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-38BDF8?style=for-the-badge&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 Project Two
-Interactive 3D landing page built with Three.js, blending WebGL visuals with clean UI design.
-
-`Three.js` `React` `Framer Motion`
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-38BDF8?style=for-the-badge&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<p align="center"><i>📌 Update the links above and add more project cards as your portfolio grows.</i></p>
-
----
-
-# `05` — GITHUB CONTRIBUTION SNAKE 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gopalmule1608/gopalmule1608/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<p align="center"><sub>Generated via the <code>snk</code> GitHub Action — set it up in your repo's workflow to keep this live.</sub></p>
-
----
-
-# `06` — LET'S CONNECT
-
-<p align="center">
-I'm always open to interesting conversations, collaborations, and frontend opportunities.
-<br>
-Feel free to reach out — I usually reply fast! ⚡
-</p>
-
-<p align="center">
-<a href="https://github.com/gopalmule1608">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/gopal-mule-ba89233b1/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/gopalmule.1608/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:gopalmule1608@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:312E81,35:1E1B4B,70:0F172A,100:020617"
-    width="100%"
-  />
-</p>
-
-<p align="center"><i>⭐ If you like what you see, consider starring my repositories!</i></p>
+Built as a GitHub profile system with a terminal-inspired, accessible SVG hero. The banner intentionally keeps personal claims limited to supplied profile information.
