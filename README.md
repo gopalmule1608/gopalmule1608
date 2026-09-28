@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Gopal Mule</h1>
 
-<h3 align="center">Frontend Developer | BCA Science Student | Future Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/gopalmule1608">
