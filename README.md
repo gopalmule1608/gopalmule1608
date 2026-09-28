@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./gopal-profile-banner.svg" width="100%" alt="Gopal Mule GitHub Profile Banner">
+  <img
+    src="https://raw.githubusercontent.com/gopalmule1608/gopalmule1608/main/gopal-profile-banner.svg"
+    width="100%"
+    alt="Gopal Mule — Fullstack Developer"
+  >
 </p>
 
 <h1 align="center">Hi 👋, I'm Gopal Mule</h1>
