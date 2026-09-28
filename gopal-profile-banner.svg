@@ -50,12 +50,13 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
 <text x="592" y="327" class="pill">HTML</text><text x="706" y="327" class="pill">CSS</text>
 <text x="820" y="327" class="pill">JavaScript</text><text x="959" y="327" class="pill">React.js</text>
 <text x="592" y="372" class="pill">Tailwind CSS</text><text x="741" y="372" class="pill">GSAP</text>
-<text x="855" y="372" class="pill">Three.js</text><text x="969" y="372" class="pill">Git &amp; GitHub</text>
+  <text x="592" y="372" class="pill">Node Js</text><text x="592" y="372" class="pill">Mongodb</text><text x="592" y="372" class="pill">Express Js</text>
+<text x="969" y="372" class="pill">Git &amp; GitHub</text>
 
 <rect x="566" y="420" width="586" height="83" rx="20" fill="#061326" fill-opacity=".82" stroke="#164E73"/>
 <text x="592" y="451" class="value">▣ FEATURED PROJECTS</text>
-<text x="592" y="478" class="pill">Todo App</text><text x="720" y="478" class="pill">NewsX</text>
-<text x="815" y="478" class="pill">Notes App</text><text x="942" y="478" class="pill">Portfolio</text>
+<text x="720" y="478" class="pill">NewsX</text>
+<text x="815" y="478" class="pill">Student Management System</text>
 
 <rect x="566" y="519" width="586" height="63" rx="20" fill="#061326" fill-opacity=".82" stroke="#164E73"/>
 <text x="592" y="550" class="value">↗ CONNECT</text>
