@@ -32,10 +32,6 @@ Hi, I'm **Gopal Mule**, a **FullStack Engineer** from **Jalna**. I build web app
 
 ---
 
-
-
----
-
 ## 🚀 Featured Projects
 
 | Project | What it does |
