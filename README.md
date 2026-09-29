@@ -32,11 +32,7 @@ Hi, I'm **Gopal Mule**, a **FullStack Engineer** from **Jalna**. I build web app
 
 ---
 
-## 🎓 Education
 
-| Course | Status | CGPA |
-| :-- | :-- | :-- |
-| **BCA (Science)** | 5th Semester (ongoing) | **9** |
 
 ---
 
