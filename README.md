@@ -81,7 +81,7 @@ Hi, I'm **Gopal Mule**, a **FullStack Engineer** from **Jalna**. I build web app
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
