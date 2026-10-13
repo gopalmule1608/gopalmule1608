@@ -172,22 +172,6 @@ A **MERN stack** app to track job applications, their status and follow-ups in o
 
 ---
 
-## 🌱 Currently Learning & Building
-
-- 🔨 Building **Job Application Tracker** with the MERN stack
-- 📚 Going deeper into **React**, **Node.js** and **MongoDB**
-- 🎞️ Exploring smooth web animations with **GSAP**
-
----
-
-## 🎓 Education
-
-| Degree | Stream | Semester | CGPA |
-| :-- | :-- | :-: | :-: |
-| **BCA** | Science | 5th | **9** |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
