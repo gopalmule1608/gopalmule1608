@@ -8,15 +8,15 @@
 
 <br>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/gopalmule1608">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=FullStack+Engineer;MERN+Stack+Developer;BCA+Science+Student;Building+the+web%2C+end+to+end" alt="Typing animation: FullStack Engineer, MERN Stack Developer, BCA Science Student">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
-<img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&color=7C3AED&logo=github" alt="Followers">
-<img src="https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?label=Stars&style=for-the-badge&color=F59E0B&logo=github" alt="Total stars">
+<img src="https://komarev.com/ghpvc/?username=gopalmule1608&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/github/followers/gopalmule1608?label=Followers&style=for-the-badge&color=7C3AED&logo=github" alt="Followers">
+<img src="https://img.shields.io/github/stars/gopalmule1608?label=Stars&style=for-the-badge&color=F59E0B&logo=github" alt="Total stars">
 <img src="https://img.shields.io/badge/Location-Jalna-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Jalna">
 
 </div>
@@ -63,7 +63,7 @@ A complete **MERN stack** web app to track and manage attendance, from marking p
 
 <br>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME/ONLINE-ATTENDANCE-REPO"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code"></a>
+<a href="https://github.com/gopalmule1608/ONLINE-ATTENDANCE-REPO"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code"></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live demo"></a>
 
 </div>
@@ -95,7 +95,7 @@ A **MERN stack** app to track job applications, their status and follow-ups in o
 
 <br>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME/job-application-tracker"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code"></a>
+<a href="https://github.com/gopalmule1608/job-application-tracker"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code"></a>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live demo"></a>
 
 </div>
@@ -106,11 +106,11 @@ A **MERN stack** app to track job applications, their status and follow-ups in o
 
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME/ONLINE-ATTENDANCE-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=ONLINE-ATTENDANCE-REPO&theme=tokyonight&hide_border=true" alt="Online Attendance System repo card">
+<a href="https://github.com/gopalmule1608/ONLINE-ATTENDANCE-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalmule1608&repo=ONLINE-ATTENDANCE-REPO&theme=tokyonight&hide_border=true" alt="Online Attendance System repo card">
 </a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME/job-application-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=job-application-tracker&theme=tokyonight&hide_border=true" alt="Job Application Tracker repo card">
+<a href="https://github.com/gopalmule1608/job-application-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalmule1608&repo=job-application-tracker&theme=tokyonight&hide_border=true" alt="Job Application Tracker repo card">
 </a>
 
 </div>
@@ -192,16 +192,16 @@ A **MERN stack** app to track job applications, their status and follow-ups in o
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gopalmule1608&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalmule1608&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=gopalmule1608&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopalmule1608&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph">
 
 </div>
 
