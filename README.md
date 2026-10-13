@@ -34,37 +34,94 @@ Hi, I'm **Gopal Mule**, a **FullStack Engineer** from **Jalna**. I build web app
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
-| :-- | :-- |
-| 🗓️ **Online Attendance System** | Web app to track attendance |
-| 📝 **Note App** | Create and organize notes |
-| ✅ **Task Management** | Plan and track tasks |
-| 💰 **Expense Manager** | Track and manage expenses |
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<!-- Add repo links like: [Online Attendance System](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME) -->
+### 🗓️ Online Attendance System
+![Status](https://img.shields.io/badge/Status-Completed-10B981?style=for-the-badge)
+
+A complete **MERN stack** web app to track and manage attendance.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[🔗 GitHub Repo](https://github.com/YOUR-GITHUB-USERNAME/ONLINE-ATTENDANCE-REPO) &nbsp;|&nbsp; [🌐 Live Demo](#)
+
+</td>
+    <td width="50%" valign="top">
+
+### 💼 Job Application Tracker
+![Status](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=for-the-badge)
+
+A **MERN stack** app to track job applications, their status and follow-ups in one place.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[🔗 GitHub Repo](https://github.com/YOUR-GITHUB-USERNAME/job-application-tracker) &nbsp;|&nbsp; [🌐 Live Demo](#)
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,git,github&perline=10" alt="Skill icons">
+
+</div>
+
+<br>
+
+**🎨 Frontend**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Database**
+**✨ Animation**
+
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+**⚙️ Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**🗄️ Database**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools**
+**🧰 Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌱 Currently Learning & Building
+
+- 🔨 Building **Job Application Tracker** with the MERN stack
+- 📚 Going deeper into **React**, **Node.js** and **MongoDB**
+- 🎞️ Exploring smooth web animations with **GSAP**
+
+---
+
+## 🎓 Education
+
+| Degree | Stream | Semester | CGPA |
+| :-- | :-- | :-: | :-: |
+| **BCA** | Science | 5th | **9** |
 
 ---
 
@@ -81,15 +138,21 @@ Hi, I'm **Gopal Mule**, a **FullStack Engineer** from **Jalna**. I build web app
 
 ---
 
-##  Let's Connect
+## 🎯 Goal
+
+> Become a strong **FullStack Engineer** and build products that people actually use.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/gopal-mule-ba89233b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/gopalmule.1608"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br><br>
 
-*Thanks for visiting my profile!*
+*Thanks for visiting my profile!* ⭐
 
 </div>
