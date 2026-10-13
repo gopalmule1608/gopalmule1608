@@ -61,6 +61,11 @@ A complete **MERN stack** web app to track and manage attendance, from marking p
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
+<br>
+
+<a href="https://github.com/gopalmule1608/ONLINE-ATTENDANCE-REPO"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code"></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live demo"></a>
+
 </div>
 
 </td>
@@ -88,11 +93,27 @@ A **MERN stack** app to track job applications, their status and follow-ups in o
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
+<br>
+
+<a href="https://github.com/gopalmule1608/job-application-tracker"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code"></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live demo"></a>
+
 </div>
 
 </td>
   </tr>
 </table>
+
+<div align="center">
+
+<a href="https://github.com/gopalmule1608/ONLINE-ATTENDANCE-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalmule1608&repo=ONLINE-ATTENDANCE-REPO&theme=tokyonight&hide_border=true" alt="Online Attendance System repo card">
+</a>
+<a href="https://github.com/gopalmule1608/job-application-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalmule1608&repo=job-application-tracker&theme=tokyonight&hide_border=true" alt="Job Application Tracker repo card">
+</a>
+
+</div>
 
 ---
 
